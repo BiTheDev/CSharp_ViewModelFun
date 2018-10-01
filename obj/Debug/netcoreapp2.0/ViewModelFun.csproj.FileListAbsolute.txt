@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/obj/Debug/netcoreapp2.0/ViewModelFun.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/obj/Debug/netcoreapp2.0/ViewModelFun.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/obj/Debug/netcoreapp2.0/ViewModelFun.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/obj/Debug/netcoreapp2.0/ViewModelFun.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/bin/Debug/netcoreapp2.0/ViewModelFun.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/bin/Debug/netcoreapp2.0/ViewModelFun.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/bin/Debug/netcoreapp2.0/ViewModelFun.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/bin/Debug/netcoreapp2.0/ViewModelFun.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/bin/Debug/netcoreapp2.0/ViewModelFun.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/obj/Debug/netcoreapp2.0/ViewModelFun.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day4/ViewModelFun/obj/Debug/netcoreapp2.0/ViewModelFun.pdb
